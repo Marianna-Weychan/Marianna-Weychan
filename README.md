@@ -7,25 +7,27 @@
 
 
 I'm a Frontend Developer who is passionate about learning and creating innovative things 💡.  I love to explore new technologies and leverage them to solve real-life problems ✨. I always try to beat previous version of me and make myself better day by day, giving my best to learn and acquire top programming skills in order to become a great developer. 🎯 Life motto: **Keeping the good mood and the good code** 🙃!
+<br/><br/>
+<br/><br/>
 
 
-
-#
 <a href="#"><img width="35%" height="auto" align="right" src="https://media.giphy.com/media/fxgXxnxNOW3bZFvthA/giphy.gif" /></a>
-
 
 
 ### More about me:
 
-- 🌱 &nbsp; I'm currently working on **[Movies Browser](https://github.com/bartekdbc/movies-browser)**.
-- 💻 &nbsp; Currently learning, growing and mastering my skillset in **React**, **Angular** and **Typescript**.
-- 🔭 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 🌐 &nbsp; All of my projects are available at **[Portfolio](https://github.com/bartekdbc?tab=repositories)**.
-- ✉️ &nbsp; Feel free to contact me about new projects or job opportunities: **mariannaweychan@gmail.com**.
-- 🐶 Fun fact - **I am deeply in 💖 with Boxers**🐕. 
 
-#
-           
+- 🌱&nbsp; I have currently completed a group project **[movie browser](https://github.com/Marianna-Weychan/movie-project)** 📽️.
+- 💻&nbsp; I am currently learning, developing and improving my skills in **React** <br/> and **Typescript**.
+- 💡&nbsp; I believe that a person fulfills himself through continuous development,<br/> which is why every day I try to be a better version of myself <br/> from the previous day, in every area of life.
+- 🌐&nbsp; All my projects are available on **[My recent projects](https://github.com/Marianna-Weychan?tab=repositories)** ⚒️
+- ✉️&nbsp; Feel free to contact me about new projects or job offers: **mariannaweychan@gmail.com**.
+- 🏺&nbsp; Additional fun fact about me  - **I am a female gladiator - gladiatrix**, check on your own ⤵️ <br/>
+  [**Bellator societas**](https://bellatorsocietas.pl/) [**or on Facebook**](https://www.facebook.com/bellatorsocietas/) 💪
+  P.S. [the redhead is me 😉👩‍](https://www.facebook.com/photo/?fbid=5378658582249535&set=pb.100064361662187.-2207520000.) <br/>   
+
+<br/>
+
 ### Languages & Tools 
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
