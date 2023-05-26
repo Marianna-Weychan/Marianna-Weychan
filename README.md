@@ -1,7 +1,8 @@
 ## Hello, I'm glad you looked at my profile🙋‍♀️  
 ### My name is Marianna Weychan and below you will find a few words more about me and mine code adventure 🏋️💻  <br><br>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/marianna-weychan/)](https://www.linkedin.com/in/marianna-weychan/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariannaweychan@gmail.com)](mailto:mariannaweychan@gmail.com)
+<a href="https://www.linkedin.com/in/marianna-weychan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn"></a> ![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariannaweychan@gmail.com)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=1195C0&size=24&width=800&lines=Feel+free+to+view+my+projects+and+contact+me+%F0%9F%93%A7)](https://git.io/typing-svg)
 
